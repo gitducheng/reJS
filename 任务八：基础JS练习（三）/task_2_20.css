@@ -1,0 +1,15 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.num-bg{
+	//background-color: red;
+	border:1px solid red;
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	margin-left: 10px;
+}
+span{
+	background-color: red;
+}
